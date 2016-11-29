@@ -1,4 +1,4 @@
-=== WP Text To Speech Widget ===
+=== Text To Speech Widget ===
 Contributors: pmbaldha
 Tags: text to speech, text to voice, voice, text listen, male voice, female voice, male speech,female speech
 Requires at least: 2.8
@@ -6,10 +6,10 @@ Tested up to: 4.5.2
 Stable tag: trunk
 License: Private
 
-WP Text To Speech Widget converts any text in to speech in selected language and voice.
+Text To Speech Widget converts any text in to speech in selected language and voice.
 
 == Description ==
-WP Text To Speech Widget converts any text in to speech in selected language and voice. It supports 63 voices in different languages. It converts text to speech. 
+Text To Speech Widget converts any text in to speech in selected language and voice. It supports 63 voices in different languages. It converts text to speech. 
 It is easy to install and flexible wordpress widget. It requires no configuration. You have to just drag and drop this widget and this widget. This is based on HTML5,it doesn't require flash plugin. You can convert unlimited words to voice.
 
 == Installation ==

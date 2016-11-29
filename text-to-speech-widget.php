@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Text To Speech Widget
+Plugin Name: Text To Speech Widget
 Plugin URI:  https://github.com/pmbaldha/wp-current-location-on-map/
 Description: WP Text To Speech Widget converts any text in to speech in selected language and voice.
 Text Domain: text-to-speech-widget
